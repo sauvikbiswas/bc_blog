@@ -25,3 +25,8 @@ a:hover {
   margin-top: 70px;
   font-size: 75%;
 }
+
+img {
+  display: block;
+  max-width: 768px;
+}
